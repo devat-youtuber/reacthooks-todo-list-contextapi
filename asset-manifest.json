@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reacthooks-todo-list-contextapi/static/css/main.af5d0e1a.chunk.css",
+    "main.js": "/reacthooks-todo-list-contextapi/static/js/main.077bf151.chunk.js",
+    "main.js.map": "/reacthooks-todo-list-contextapi/static/js/main.077bf151.chunk.js.map",
+    "runtime-main.js": "/reacthooks-todo-list-contextapi/static/js/runtime-main.223535c4.js",
+    "runtime-main.js.map": "/reacthooks-todo-list-contextapi/static/js/runtime-main.223535c4.js.map",
+    "static/js/2.5f3d3106.chunk.js": "/reacthooks-todo-list-contextapi/static/js/2.5f3d3106.chunk.js",
+    "static/js/2.5f3d3106.chunk.js.map": "/reacthooks-todo-list-contextapi/static/js/2.5f3d3106.chunk.js.map",
+    "index.html": "/reacthooks-todo-list-contextapi/index.html",
+    "precache-manifest.b4f38d99c12d66bd5df156d466959ebc.js": "/reacthooks-todo-list-contextapi/precache-manifest.b4f38d99c12d66bd5df156d466959ebc.js",
+    "service-worker.js": "/reacthooks-todo-list-contextapi/service-worker.js",
+    "static/css/main.af5d0e1a.chunk.css.map": "/reacthooks-todo-list-contextapi/static/css/main.af5d0e1a.chunk.css.map",
+    "static/js/2.5f3d3106.chunk.js.LICENSE.txt": "/reacthooks-todo-list-contextapi/static/js/2.5f3d3106.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.223535c4.js",
+    "static/js/2.5f3d3106.chunk.js",
+    "static/css/main.af5d0e1a.chunk.css",
+    "static/js/main.077bf151.chunk.js"
+  ]
+}
