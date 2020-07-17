@@ -1,5 +1,8 @@
 # reacthooks-todo-list-contextapi
-React Hooks To Do List App Using Context API 
+React Hooks To Do List App Using 
+#Context API (useState)
+#Local Storage (useEffect)
+#Auto focus Input (useRef)
 
 Demo: https://devat-youtuber.github.io/reacthooks-todo-list-contextapi/
 
